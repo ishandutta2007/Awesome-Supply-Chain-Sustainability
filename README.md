@@ -22,29 +22,18 @@ Commercial / hosted platforms are listed separately for completeness. Open-sourc
 
 
 
-| Platform | Description | Key Focus |
-
-|----------|-------------|-----------|
-
-| **[EcoVadis](https://ecovadis.com/)** | Leading provider of business sustainability ratings. Assesses suppliers on Environment, Labor & Human Rights, Ethics, and Sustainable Procurement with industry benchmarking and scorecards. | Supplier ESG ratings & benchmarking |
-
-| **[IntegrityNext](https://www.integritynext.com/)** | Supply chain due diligence and ESG risk platform with automated risk detection, supplier engagement, regulatory coverage (CSDDD and more), and AI-driven supplier intelligence. | Due diligence & regulatory compliance |
-
-| **[Assent](https://www.assent.com/)** | Supply chain sustainability and compliance platform helping manufacturers manage regulatory obligations, product compliance, and ESG data across complex supplier networks. | Product & supply chain compliance |
-
-| **[Worldly](https://worldly.io/)** (formerly Higg) | Sustainability measurement platform widely used in apparel and consumer goods for environmental and social impact assessment across the value chain. | Industry impact measurement (apparel focus) |
-
-| **[Prewave](https://www.prewave.com/)** | AI-powered supply chain risk and sustainability monitoring platform that detects risks from news, social, and other signals across multi-tier supply chains. | Real-time risk intelligence |
-
-| **[Sedex](https://www.sedex.com/)** | Collaborative platform for sharing responsible sourcing data, audits, and sustainability performance among buyers and suppliers. | Responsible sourcing data sharing |
-
-| **[Source Intelligence](https://www.sourceintelligence.com/)** | Supply chain compliance and ESG data management platform focused on regulations (PFAS, REACH, RoHS, EUDR, conflict minerals, etc.) with automation and supplier engagement. | Regulatory compliance & materials data |
-
-| **[Achilles](https://www.achilles.com/)** | Supplier management and sustainability platform providing qualification, risk assessment, and ESG performance insights for procurement teams. | Supplier qualification & risk |
-
-| **[Intertek Inform](https://www.intertek.com/)** | Assurance, testing, and supply chain sustainability solutions including audit programs, risk tools, and compliance support. | Assurance & audit-driven sustainability |
-
-| **[osapiens HUB](https://osapiens.com/)** | Supplier intelligence and compliance platform supporting due diligence (LkSG, EUDR, etc.), onboarding, risk monitoring, and multi-tier transparency. | Supplier intelligence & due diligence |
+| Platform | Description | Key Focus | Pricing | Free Tier / Trial Limits |
+|----------|-------------|-----------|---------|--------------------------|
+| **[EcoVadis](https://ecovadis.com/)** | Leading provider of business sustainability ratings. Assesses suppliers on Environment, Labor & Human Rights, Ethics, and Sustainable Procurement with industry benchmarking and scorecards. | Supplier ESG ratings & benchmarking | Basic plan from €490/year; Premium plan from €990/year | No free plan/trial; 6-week free questionnaire period for invited suppliers |
+| **[IntegrityNext](https://www.integritynext.com/)** | Supply chain due diligence and ESG risk platform with automated risk detection, supplier engagement, regulatory coverage (CSDDD and more), and AI-driven supplier intelligence. | Due diligence & regulatory compliance | Customer plan from €9,800/year; Free for invited suppliers | 14-day free trial (evaluations auto-expire after 14 days) |
+| **[Assent](https://www.assent.com/)** | Supply chain sustainability and compliance platform helping manufacturers manage regulatory obligations, product compliance, and ESG data across complex supplier networks. | Product & supply chain compliance | Enterprise quote-based (custom per network complexity); Free ASP supplier portal | No free trial (guided demo available); Free ESG risk assessment tool |
+| **[Worldly](https://worldly.io/)** (formerly Higg) | Sustainability measurement platform widely used in apparel and consumer goods for environmental and social impact assessment across the value chain. | Industry impact measurement (apparel focus) | Facility Light plan from $299/year; Standard plan from $899/year; Complete plan from $1,499/year | No free trial; 5-unit exploration cap on Higg MSI tool |
+| **[Prewave](https://www.prewave.com/)** | AI-powered supply chain risk and sustainability monitoring platform that detects risks from news, social, and other signals across multi-tier supply chains. | Real-time risk intelligence | Tiered custom quote (est. from ~€249/month for entry risk monitoring modules); Supplier basic access free | No standard public free trial (PoC / site-contribution trials under formal setup) |
+| **[Sedex](https://www.sedex.com/)** | Collaborative platform for sharing responsible sourcing data, audits, and sustainability performance among buyers and suppliers. | Responsible sourcing data sharing | Supplier Standard from £224/year (Plus at £374/year); Buyer tier quote-based by turnover | No free trial or free tier (SMETA audits billed separately by third parties) |
+| **[Source Intelligence](https://www.sourceintelligence.com/)** | Supply chain compliance and ESG data management platform focused on regulations (PFAS, REACH, RoHS, EUDR, conflict minerals, etc.) with automation and supplier engagement. | Regulatory compliance & materials data | Enterprise custom quote based on scope & supplier network size | No free trial (product demo upon request) |
+| **[Achilles](https://www.achilles.com/)** | Supplier management and sustainability platform providing qualification, risk assessment, and ESG performance insights for procurement teams. | Supplier qualification & risk | Free Member tier; Silver upgrade from €510/year; Silver Plus from €750/year (Audits billed separately) | Free forever basic Member tier (up to €50k contract threshold) |
+| **[Intertek Inform](https://www.intertek.com/)** | Assurance, testing, and supply chain sustainability solutions including audit programs, risk tools, and compliance support. | Assurance & audit-driven sustainability | Custom quote based on scope, location & facility count; Standards document packages separate | No free trial for assurance platform (select free downloadable PDF standards available) |
+| **[osapiens HUB](https://osapiens.com/)** | Supplier intelligence and compliance platform supporting due diligence (LkSG, EUDR, etc.), onboarding, risk monitoring, and multi-tier transparency. | Supplier intelligence & due diligence | CMMS Essential from €29/user/month; Premium from €49/user/month; ESG/LkSG custom quote | CMMS Starter plan free up to 5 users & 10 work orders/month; 14-day free trial on CMMS Premium |
 
 
 
@@ -181,3 +170,4 @@ Please open an issue or pull request.
 **Last updated:** August 2026  
 
 Emphasizing open-source tools while documenting the major commercial platforms for context. Fully featured open-source supplier ESG rating and due-diligence networks remain limited; the strongest open options focus on carbon accounting, Scope 3 calculation, ERP sustainability modules, and transparent reporting pipelines. Commercial platforms lead in network-scale supplier ratings, regulatory coverage, and risk intelligence.
+
