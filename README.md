@@ -57,12 +57,14 @@ Fully featured commercial-grade supplier ESG rating networks and multi-tier due 
 
 | Project | Description | License | Notes |
 |---------|-------------|---------|-------|
+| **[Electricity Maps](https://github.com/electricitymaps/electricitymaps-contrib)** [![GitHub stars](https://img.shields.io/github/stars/electricitymaps/electricitymaps-contrib?style=social&color=white)](https://github.com/electricitymaps/electricitymaps-contrib/stargazers) | Open, community-maintained dataset behind the Electricity Maps platform: real-time carbon intensity, power mix, and grid data for the world's electricity systems. | AGPL-3.0 | Real-time grid carbon intensity & power mix |
+| **[CodeCarbon](https://github.com/mlco2/codecarbon)** [![GitHub stars](https://img.shields.io/github/stars/mlco2/codecarbon?style=social&color=white)](https://github.com/mlco2/codecarbon/stargazers) | Estimates the carbon footprint of computing and machine-learning workloads, tracking emissions in real time and reporting them by region. | MIT | Software / ML carbon accounting |
+| **[Carbon Aware SDK](https://github.com/Green-Software-Foundation/carbon-aware-sdk)** [![GitHub stars](https://img.shields.io/github/stars/Green-Software-Foundation/carbon-aware-sdk?style=social&color=white)](https://github.com/Green-Software-Foundation/carbon-aware-sdk/stargazers) | Green Software Foundation's SDK, API, and CLI for building carbon-aware applications that do more when electricity is clean. | MIT | Carbon-aware computing |
+| **[CarbonTracker](https://github.com/saintslab/carbontracker)** [![GitHub stars](https://img.shields.io/github/stars/saintslab/carbontracker?style=social&color=white)](https://github.com/saintslab/carbontracker/stargazers) | Tracks the carbon emissions of deep-learning model training, including hardware power draw and location-based grid intensity. | MIT | ML training emissions |
+| **[Green Metrics Tool](https://github.com/green-coding-solutions/green-metrics-tool)** [![GitHub stars](https://img.shields.io/github/stars/green-coding-solutions/green-metrics-tool?style=social&color=white)](https://github.com/green-coding-solutions/green-metrics-tool/stargazers) | Measures the energy consumption and carbon emissions of software and containers, aligned with the Software Carbon Intensity (SCI) specification. | Open source | Software energy & carbon measurement |
 | **[blockchain-carbon-accounting](https://github.com/hyperledger-labs/blockchain-carbon-accounting)** (Hyperledger) [![GitHub stars](https://img.shields.io/github/stars/hyperledger-labs/blockchain-carbon-accounting?style=social&color=white)](https://github.com/hyperledger-labs/blockchain-carbon-accounting/stargazers) | Open-source blockchain applications for climate action and accounting: emissions calculations, carbon trading, validation of climate claims, and supply-chain decarbonization components. | Open source | Climate & carbon accounting on ledger |
-| **[Sustainability Odoo modules](https://github.com/sustainability-suite/sustainability-odoo)** [![GitHub stars](https://img.shields.io/github/stars/sustainability-suite/sustainability-odoo?style=social&color=white)](https://github.com/sustainability-suite/sustainability-odoo/stargazers) | Open-source Odoo modules for CO₂e tracking, GHG Protocol-aligned accounting, CSRD-related features, emission factors, and sustainability reporting integrated with ERP. | AGPL-3.0 | ERP-native sustainability |
-| **Carbon accounting toolkits** | Open-source AI agents and MCP toolkits for auditable Scope 1/2/3 carbon accounting, emission factor matching, data quality scoring, and decarbonization workflows. | Apache-2.0 / various | Scope 3 & audit-ready carbon tools |
-| **Supply chain sustainability reporting projects** | Python-based open projects for calculating and reporting distribution-network or logistics CO₂ emissions, often with Power BI or dashboard examples. | Various | Practical emissions reporting |
-| **OS-Climate & sustainable finance tools** | Open-source initiatives for climate-smart investing, risk management, and ESG data handling (part of broader sustainable finance ecosystems). | Open source | Climate risk & finance |
-| **Open supply chain visualization** | Open codebases for visualizing and analyzing supply chains (e.g., Sourcemap-related open components). | Various | Transparency & mapping |
+| **[Green Algorithms](https://github.com/Cambridge-Sustainable-Computing-Lab/Green-Algorithms-calculator)** [![GitHub stars](https://img.shields.io/github/stars/Cambridge-Sustainable-Computing-Lab/Green-Algorithms-calculator?style=social&color=white)](https://github.com/Cambridge-Sustainable-Computing-Lab/Green-Algorithms-calculator/stargazers) | Calculator and methodology for estimating the carbon footprint of scientific computing and research workflows. | CC-BY-4.0 | Green scientific computing |
+| **[Open Supply Hub](https://github.com/OpenSupplyHub/open-supply-hub)** [![GitHub stars](https://img.shields.io/github/stars/OpenSupplyHub/open-supply-hub?style=social&color=white)](https://github.com/OpenSupplyHub/open-supply-hub/stargazers) | Open, freely accessible database mapping production facilities worldwide (formerly the Open Apparel Registry) to support supply-chain transparency. | MIT | Facility-level supply chain transparency |
 
 
 
@@ -70,14 +72,11 @@ Fully featured commercial-grade supplier ESG rating networks and multi-tier due 
 
 
 
-| Project | Description | Focus Area |
-|---------|-------------|---------|
-| **Emission factor databases & calculators** | Open libraries and datasets for GHG emission factors, activity-based calculations, and Scope 3 category support. | Carbon calculation |
-| **Input-output & LCA tools** | Open economic input-output and life-cycle assessment packages for estimating supply-chain impacts. | Impact estimation |
-| **ESG data & reporting frameworks** | Open resources and code for aligning with CSRD/ESRS, GHG Protocol, and related disclosure standards. | Regulatory reporting |
-| **Risk & news monitoring prototypes** | Open NLP and scraping approaches for basic supplier risk signal detection (far less mature than commercial AI platforms). | Risk signals |
-| **ERP & procurement integrations** | Modules and connectors for Odoo, ERPNext, and similar systems to track sustainability attributes of purchases and suppliers. | Operational integration |
-| **Dashboarding** | Metabase, Apache Superset, or Grafana on top of emissions and supplier data for internal sustainability scorecards. | Visualization & KPIs |
+| Project | Description | License | Notes |
+|---------|-------------|---------|-------|
+| **[openLCA](https://github.com/GreenDelta/olca-app)** [![GitHub stars](https://img.shields.io/github/stars/GreenDelta/olca-app?style=social&color=white)](https://github.com/GreenDelta/olca-app/stargazers) | Source code of openLCA, the leading open-source, feature-rich Life Cycle Assessment and sustainability software for modeling product systems and computing impacts. | MPL-2.0 | LCA & impact assessment |
+| **[Brightway2](https://github.com/brightway-lca/brightway2)** [![GitHub stars](https://img.shields.io/github/stars/brightway-lca/brightway2?style=social&color=white)](https://github.com/brightway-lca/brightway2/stargazers) | Open-source framework for Life Cycle Assessment in Python, with a modular ecosystem for inventory databases and impact assessment methods. | BSD-3-Clause | LCA framework |
+| **[emissions-api](https://github.com/emissions-api/emissions-api)** [![GitHub stars](https://img.shields.io/github/stars/emissions-api/emissions-api?style=social&color=white)](https://github.com/emissions-api/emissions-api/stargazers) | Open API and datasets for monitoring CO₂ and methane emissions from satellite data. | MIT | Emissions data API |
 
 
 
