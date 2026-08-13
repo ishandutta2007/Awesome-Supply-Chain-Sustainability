@@ -54,19 +54,12 @@ Fully featured commercial-grade supplier ESG rating networks and multi-tier due 
 
 
 | Project | Description | License | Notes |
-
 |---------|-------------|---------|-------|
-
 | **[blockchain-carbon-accounting](https://github.com/hyperledger-labs/blockchain-carbon-accounting)** (Hyperledger) | Open-source blockchain applications for climate action and accounting: emissions calculations, carbon trading, validation of climate claims, and supply-chain decarbonization components. | Open source | Climate & carbon accounting on ledger |
-
 | **Carbon accounting toolkits** | Open-source AI agents and MCP toolkits for auditable Scope 1/2/3 carbon accounting, emission factor matching, data quality scoring, and decarbonization workflows. | Apache-2.0 / various | Scope 3 & audit-ready carbon tools |
-
 | **[Sustainability Odoo modules](https://github.com/sustainability-suite/sustainability-odoo)** | Open-source Odoo modules for CO₂e tracking, GHG Protocol-aligned accounting, CSRD-related features, emission factors, and sustainability reporting integrated with ERP. | AGPL-3.0 | ERP-native sustainability |
-
 | **Supply chain sustainability reporting projects** | Python-based open projects for calculating and reporting distribution-network or logistics CO₂ emissions, often with Power BI or dashboard examples. | Various | Practical emissions reporting |
-
 | **OS-Climate & sustainable finance tools** | Open-source initiatives for climate-smart investing, risk management, and ESG data handling (part of broader sustainable finance ecosystems). | Open source | Climate risk & finance |
-
 | **Open supply chain visualization** | Open codebases for visualizing and analyzing supply chains (e.g., Sourcemap-related open components). | Various | Transparency & mapping |
 
 
@@ -76,19 +69,12 @@ Fully featured commercial-grade supplier ESG rating networks and multi-tier due 
 
 
 | Project | Description | Focus Area |
-
 |---------|-------------|---------|
-
 | **Emission factor databases & calculators** | Open libraries and datasets for GHG emission factors, activity-based calculations, and Scope 3 category support. | Carbon calculation |
-
 | **Input-output & LCA tools** | Open economic input-output and life-cycle assessment packages for estimating supply-chain impacts. | Impact estimation |
-
 | **ESG data & reporting frameworks** | Open resources and code for aligning with CSRD/ESRS, GHG Protocol, and related disclosure standards. | Regulatory reporting |
-
 | **Risk & news monitoring prototypes** | Open NLP and scraping approaches for basic supplier risk signal detection (far less mature than commercial AI platforms). | Risk signals |
-
 | **ERP & procurement integrations** | Modules and connectors for Odoo, ERPNext, and similar systems to track sustainability attributes of purchases and suppliers. | Operational integration |
-
 | **Dashboarding** | Metabase, Apache Superset, or Grafana on top of emissions and supplier data for internal sustainability scorecards. | Visualization & KPIs |
 
 
@@ -124,27 +110,16 @@ Fully featured commercial-grade supplier ESG rating networks and multi-tier due 
 
 
 | Goal | Recommended Starting Point |
-
 |------|---------------------------|
-
 | Open-source carbon / climate accounting | **blockchain-carbon-accounting** or dedicated Scope 1/2/3 toolkits |
-
 | ERP-integrated CO₂ & sustainability | **Sustainability Odoo modules** |
-
 | Practical logistics emissions reporting | Community Python supply-chain sustainability projects |
-
 | Supplier ESG ratings & benchmarking | **EcoVadis** |
-
 | Supply chain due diligence & CSDDD | **IntegrityNext** or **osapiens HUB** |
-
 | Product & regulatory compliance | **Assent** or **Source Intelligence** |
-
 | Real-time multi-tier risk signals | **Prewave** |
-
 | Responsible sourcing data sharing | **Sedex** |
-
 | Apparel / consumer goods impact | **Worldly** |
-
 | Supplier qualification & risk | **Achilles** |
 
 
