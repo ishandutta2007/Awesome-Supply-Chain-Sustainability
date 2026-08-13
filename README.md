@@ -1,16 +1,16 @@
-# Awesome-Supply-Chain-Sustainability
+# 🌍 Awesome-Supply-Chain-Sustainability
 
 <p align="center">
   <img src="assets/banner.svg" alt="Awesome Supply Chain Sustainability banner" width="100%" />
 </p>
 
-## Top Supply Chain Sustainability Platforms
+## 🏆 Top Supply Chain Sustainability Platforms
 
 
 
-A curated list of leading platforms for supply chain sustainability, ESG risk and performance management, supplier due diligence, carbon/Scope 3 accounting, responsible sourcing, and regulatory compliance (CSDDD, LkSG, EUDR, etc.).  
+🌱 A curated list of leading platforms for supply chain sustainability, ESG risk and performance management, supplier due diligence, carbon/Scope 3 accounting, responsible sourcing, and regulatory compliance (CSDDD, LkSG, EUDR, etc.).  
 
-**Primary focus: open-source software.**
+💚 **Primary focus: open-source software.**
 
 
 
@@ -22,7 +22,7 @@ Commercial / hosted platforms are listed separately for completeness. Open-sourc
 
 
 
-## SaaS / Hosted Platforms
+## ☁️ SaaS / Hosted Platforms
 
 
 
@@ -47,7 +47,7 @@ Commercial / hosted platforms are listed separately for completeness. Open-sourc
 
 
 
-## Open-Source Softwares
+## 💚 Open-Source Softwares
 
 
 
@@ -55,7 +55,7 @@ Fully featured commercial-grade supplier ESG rating networks and multi-tier due 
 
 
 
-### Core Frameworks & Sustainability Platforms
+### 🧱 Core Frameworks & Sustainability Platforms
 
 
 
@@ -72,7 +72,7 @@ Fully featured commercial-grade supplier ESG rating networks and multi-tier due 
 
 
 
-### Specialized Libraries & Related Tools
+### 🛠️ Specialized Libraries & Related Tools
 
 
 
@@ -84,25 +84,25 @@ Fully featured commercial-grade supplier ESG rating networks and multi-tier due 
 
 
 
-### Additional Notable Open-Source Tools
+### 📦 Additional Notable Open-Source Tools
 
 
 
-- **Self-hosted carbon accounting** — Combine open Scope 1/2/3 engines with internal activity data for auditable inventories.
+- 🏠 **Self-hosted carbon accounting** — Combine open Scope 1/2/3 engines with internal activity data for auditable inventories.
 
-- **ERP sustainability extensions** — Use Odoo sustainability modules or similar ERPNext customizations for operational CO₂ tracking.
+- ⚙️ **ERP sustainability extensions** — Use Odoo sustainability modules or similar ERPNext customizations for operational CO₂ tracking.
 
-- **Blockchain pilots** — Experiment with Hyperledger-based carbon accounting and tokenized claims for transparency projects.
+- ⛓️ **Blockchain pilots** — Experiment with Hyperledger-based carbon accounting and tokenized claims for transparency projects.
 
-- **Reporting pipelines** — Python + open BI stacks for logistics, procurement, and product-level emissions reports.
+- 📊 **Reporting pipelines** — Python + open BI stacks for logistics, procurement, and product-level emissions reports.
 
-- **Data standards & taxonomies** — Open alignment with GHG Protocol, product category rules, and emerging digital product passport concepts.
+- 📐 **Data standards & taxonomies** — Open alignment with GHG Protocol, product category rules, and emerging digital product passport concepts.
 
-- **Hybrid approaches** — Many organizations use commercial platforms (EcoVadis, IntegrityNext, etc.) for supplier ratings and due diligence while running open-source tools for internal carbon accounting and custom reporting.
+- 🔀 **Hybrid approaches** — Many organizations use commercial platforms (EcoVadis, IntegrityNext, etc.) for supplier ratings and due diligence while running open-source tools for internal carbon accounting and custom reporting.
 
 
 
-**Note:** Commercial platforms dominate supplier ESG ratings, multi-tier due diligence, regulatory content libraries, audit networks, and real-time risk intelligence because these require large supplier networks, proprietary data, and continuous regulatory updates. Open-source strength lies in carbon accounting, emissions calculation engines, ERP-integrated sustainability modules, and transparent reporting pipelines that organizations fully control.
+💡 **Note:** Commercial platforms dominate supplier ESG ratings, multi-tier due diligence, regulatory content libraries, audit networks, and real-time risk intelligence because these require large supplier networks, proprietary data, and continuous regulatory updates. Open-source strength lies in carbon accounting, emissions calculation engines, ERP-integrated sustainability modules, and transparent reporting pipelines that organizations fully control.
 
 
 
@@ -110,7 +110,7 @@ Fully featured commercial-grade supplier ESG rating networks and multi-tier due 
 
 
 
-## Quick Start Recommendations
+## 🚀 Quick Start Recommendations
 
 
 
@@ -133,7 +133,7 @@ Fully featured commercial-grade supplier ESG rating networks and multi-tier due 
 
 
 
-## Contributing
+## 🤝 Contributing
 
 
 
@@ -147,7 +147,7 @@ Please open an issue or pull request.
 
 
 
-**Last updated:** August 2026  
+📅 **Last updated:** August 2026  
 
 Emphasizing open-source tools while documenting the major commercial platforms for context. Fully featured open-source supplier ESG rating and due-diligence networks remain limited; the strongest open options focus on carbon accounting, Scope 3 calculation, ERP sustainability modules, and transparent reporting pipelines. Commercial platforms lead in network-scale supplier ratings, regulatory coverage, and risk intelligence.
 
