@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="Awesome Supply Chain Sustainability — curated open-source tools, SaaS platforms, and carbon &amp; ESG resources">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#081c24"/>
+      <stop offset="45%" stop-color="#0c3b2e"/>
+      <stop offset="100%" stop-color="#14532d"/>
+      <animate attributeName="x1" values="0;1;0" dur="16s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="1;0;1" dur="16s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4ade80"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+      <animate attributeName="x2" values="1;0.2;1" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#4ade80" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#4ade80" stop-opacity="0"/>
+    </radialGradient>
+    <path id="scpath" d="M 70 60 L 150 130 L 240 95 L 330 150" fill="none" stroke="none"/>
+  </defs>
+
+  <!-- Background -->
+  <rect x="2" y="2" width="996" height="236" rx="18" fill="url(#bg)" stroke="#2dd4bf" stroke-opacity="0.35" stroke-width="2"/>
+
+  <!-- Subtle dot grid -->
+  <g fill="#ffffff" opacity="0.07">
+    <circle cx="45" cy="35" r="1.6"/><circle cx="85" cy="35" r="1.6"/><circle cx="125" cy="35" r="1.6"/>
+    <circle cx="45" cy="75" r="1.6"/><circle cx="85" cy="75" r="1.6"/><circle cx="125" cy="75" r="1.6"/>
+    <circle cx="560" cy="40" r="1.6"/><circle cx="600" cy="40" r="1.6"/><circle cx="640" cy="40" r="1.6"/>
+    <circle cx="700" cy="215" r="1.6"/><circle cx="740" cy="215" r="1.6"/><circle cx="780" cy="215" r="1.6"/>
+    <circle cx="900" cy="35" r="1.6"/><circle cx="940" cy="35" r="1.6"/>
+  </g>
+
+  <!-- Supply chain network (left) -->
+  <g stroke="#2dd4bf" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="70,60 150,130 240,95 330,150"/>
+  </g>
+  <circle cx="330" cy="150" r="14" fill="url(#glow)">
+    <animate attributeName="r" values="9;17;9" dur="2.6s" repeatCount="indefinite"/>
+  </circle>
+  <g fill="#22d3ee">
+    <circle cx="70" cy="60" r="7"/>
+    <circle cx="150" cy="130" r="7"/>
+    <circle cx="240" cy="95" r="7"/>
+    <circle cx="330" cy="150" r="7"/>
+  </g>
+  <circle r="5" fill="#4ade80">
+    <animateMotion dur="6s" repeatCount="indefinite">
+      <mpath href="#scpath"/>
+    </animateMotion>
+  </circle>
+
+  <!-- Rising carbon particles -->
+  <g>
+    <circle cx="90" cy="210" r="2.5" fill="#a7f3d0">
+      <animate attributeName="cy" values="210;35" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.9;0" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="140" cy="220" r="2" fill="#a7f3d0">
+      <animate attributeName="cy" values="220;35" dur="9s" begin="-2.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.9;0" dur="9s" begin="-2.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="200" cy="205" r="3" fill="#6ee7b7">
+      <animate attributeName="cy" values="205;30" dur="10s" begin="-5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.8;0" dur="10s" begin="-5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="55" cy="180" r="2" fill="#6ee7b7">
+      <animate attributeName="cy" values="180;30" dur="7s" begin="-1.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.8;0" dur="7s" begin="-1.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="255" cy="215" r="2.2" fill="#a7f3d0">
+      <animate attributeName="cy" values="215;35" dur="8.5s" begin="-4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.9;0" dur="8.5s" begin="-4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="305" cy="210" r="1.8" fill="#a7f3d0">
+      <animate attributeName="cy" values="210;35" dur="9.5s" begin="-6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.8;0" dur="9.5s" begin="-6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Title -->
+  <text x="360" y="108" font-family="'Segoe UI', system-ui, -apple-system, Arial, sans-serif" font-size="38" font-weight="700" fill="#ffffff">Awesome Supply Chain</text>
+  <text x="360" y="158" font-family="'Segoe UI', system-ui, -apple-system, Arial, sans-serif" font-size="46" font-weight="800" fill="url(#green)">Sustainability</text>
+  <text x="360" y="188" font-family="'Segoe UI', system-ui, -apple-system, Arial, sans-serif" font-size="15" fill="#9fd8c8">Curated open-source tools · SaaS platforms · carbon &amp; ESG</text>
+
+  <!-- Twinkling stars -->
+  <g fill="#fbbf24">
+    <path d="M 330 42 L 332.5 48 L 338.5 50.5 L 332.5 53 L 330 59 L 327.5 53 L 321.5 50.5 L 327.5 48 Z">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="3.2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 385 28 L 387 33 L 392 35 L 387 37 L 385 42 L 383 37 L 378 35 L 383 33 Z">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.6s" begin="-1.2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 895 70 L 897 75 L 902 77 L 897 79 L 895 84 L 893 79 L 888 77 L 893 75 Z">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="3.8s" begin="-2.2s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- Swaying leaf -->
+  <g transform="translate(935, 205)">
+    <path d="M0 0 C -13 -5 -19 -21 -5 -29 C 4 -35 20 -29 22 -13 C 24 -3 12 2 0 0 Z" fill="#4ade80" opacity="0.85">
+      <animateTransform attributeName="transform" type="rotate" values="-7;7;-7" dur="4.5s" repeatCount="indefinite"/>
+    </path>
+    <line x1="0" y1="0" x2="6" y2="-20" stroke="#166534" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+</svg>

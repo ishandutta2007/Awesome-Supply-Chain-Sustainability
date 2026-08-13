@@ -1,5 +1,9 @@
 # Awesome-Supply-Chain-Sustainability
 
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Supply Chain Sustainability banner" width="100%" />
+</p>
+
 ## Top Supply Chain Sustainability Platforms
 
 
